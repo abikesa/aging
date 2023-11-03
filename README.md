@@ -25,8 +25,11 @@
    - memory
    - arousal
      - also linked to physical decline
+     - accelerometry-derived `physical activity` lower among those with hearing loss
+     - hypothesis: `hearing -> social isolation/cognitive load/monitoring env -> physical activity`
      
 3. Spirit
+   - 
 
 ---
 
