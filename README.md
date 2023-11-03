@@ -31,6 +31,8 @@
      - excluded hearing-aid uses: target is untreated hearing loss
      - pure-tone audiometry
      - svy command in stata: logistic regression for self-reported; linear regression for accelerometry-derived
+    
+![](activity_counts.png)
      
 3. Spirit
    - joie de vivre
