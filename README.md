@@ -14,12 +14,12 @@
 
 1. Body
    - we know about `photons -> SCN -> CLOCK`
-   - how about other sensory inputs?
-   - isn't hearning one such input that may disrupt sleep, increase glutamate activity, arousal...
+   - how about other [sensory](https://www.mdpi.com/1422-0067/21/20/7535) inputs?
+   - isn't [hearning](https://www.sciencedirect.com/science/article/pii/S2468867320301103) one such input that may disrupt sleep, increase glutamate activity, arousal...
      
 3. Mind
    - cognitive
-     - hearing loss risk factor for cognitive decline
+     - [hearing loss](https://www.tandfonline.com/doi/abs/10.1080/00016489.2023.2244010) risk factor for cognitive decline
      - sound-attenuated booth for quantification
      - participant wears headset:: 500-2000 Hz (normal speech)
         - $\lt 25 dB$ : no loss
