@@ -1,3 +1,6 @@
+Funding [opportunities](https://www.nia.nih.gov/research/blog/2024/05/osep-funding-and-career-development-innovators-aging-science?utm_source=NIA+Main&utm_campaign=1ca259bd16-blog-OSEP-5-15-24&utm_medium=email&utm_term=0_-8180ce9847-%5BLIST_EMAIL_ID%5D) at NIA
+
+![](https://muzaale.github.io/thesis/_images/c46f14aedec2cffd800a2418439eee6e989489a7662980ae1e89d757dbab3b31.png)
 
 ### Hearing loss, physical activity and frailty among older adults in the US
 #### Pablo Martinez Amezcua, MD PhD
