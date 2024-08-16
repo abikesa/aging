@@ -397,7 +397,7 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#religion">Religion</a><ul class="nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#energy">Energy</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#mu-base-case"><span class="math notranslate nohighlight">\(\mu\)</span> Base-case</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#sigma-varcov-matrix"><span class="math notranslate nohighlight">\(\sigma\)</span> Varcov-matrix</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#precision"><span class="math notranslate nohighlight">\(\%\)</span> Precision</a></li>
@@ -416,8 +416,8 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="aging">
 <span id="id1"></span><h1>Aging<a class="headerlink" href="#aging" title="Permalink to this heading">#</a></h1>
-<section id="religion">
-<h2><a class="reference external" href="https://www.vulture.com/2021/12/what-the-matrix-predicted-about-life-in-2019.html">Religion</a><a class="headerlink" href="#religion" title="Permalink to this heading">#</a></h2>
+<section id="energy">
+<h2>Energy<a class="headerlink" href="#energy" title="Permalink to this heading">#</a></h2>
 <blockquote>
 <div><p><em>From the point of view of form, the <code class="docutils literal notranslate"><span class="pre">archetype</span></code> of all the arts is the art of the musician.-Oscar Wilde</em> <span id="id2"><sup><a class="reference internal" href="../act3/part3/part3_3.html#id8" title="Oscar Wilde. The Picture of Dorian Gray. Ward, Lock &amp; Co., London, UK, 1891. Preface: &quot;From the point of view of form, the archetype of all the arts is the art of the musician.&quot;. URL: https://www.gutenberg.org/cache/epub/174/pg174-images.html.">29</a></sup></span></p>
 </div></blockquote>
@@ -444,7 +444,7 @@ document.write(`
 <ul class="simple">
 <li><p>Hearing loss as risk factor for cognitive decline</p></li>
 <li><p>Sound-attenuated booth for quantification</p></li>
-<li><p>Participant wears headset:: 500-2000 Hz (normal speech)</p>
+<li><p>Participant wears headset:: <code class="docutils literal notranslate"><span class="pre">500-2000</span> <span class="pre">Hz</span></code> (normal speech)</p>
 <ul>
 <li><p><span class="math notranslate nohighlight">\(\lt 25 dB\)</span> : no loss</p></li>
 <li><p><span class="math notranslate nohighlight">\(25-40 dB\)</span> : mild</p></li>
@@ -539,6 +539,16 @@ document.write(`
 <span class="n">plt</span><span class="o">.</span><span class="n">xlim</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">4186</span><span class="p">)</span>  <span class="c1"># Limit to the highest frequency on a piano (C8)</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">ylim</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="kc">None</span><span class="p">)</span>
 
+<span class="c1"># Shading the region for normal speaking range (approximately 85 Hz to 255 Hz)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">axvspan</span><span class="p">(</span><span class="mi">500</span><span class="p">,</span> <span class="mi">2000</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">&#39;lightpink&#39;</span><span class="p">,</span> <span class="n">alpha</span><span class="o">=</span><span class="mf">0.5</span><span class="p">)</span>
+
+<span class="c1"># Annotate the shaded region</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">annotate</span><span class="p">(</span><span class="s1">&#39;Normal Speaking Range (500 Hz - 2000 Hz)&#39;</span><span class="p">,</span>
+             <span class="n">xy</span><span class="o">=</span><span class="p">(</span><span class="mi">2000</span><span class="p">,</span> <span class="mf">0.7</span><span class="p">),</span> <span class="n">xycoords</span><span class="o">=</span><span class="s1">&#39;data&#39;</span><span class="p">,</span>
+             <span class="n">xytext</span><span class="o">=</span><span class="p">(</span><span class="mi">2500</span><span class="p">,</span> <span class="mf">0.5</span><span class="p">),</span> <span class="n">textcoords</span><span class="o">=</span><span class="s1">&#39;data&#39;</span><span class="p">,</span>
+             <span class="n">arrowprops</span><span class="o">=</span><span class="nb">dict</span><span class="p">(</span><span class="n">facecolor</span><span class="o">=</span><span class="s1">&#39;black&#39;</span><span class="p">,</span> <span class="n">arrowstyle</span><span class="o">=</span><span class="s2">&quot;-&gt;&quot;</span><span class="p">),</span>
+             <span class="n">fontsize</span><span class="o">=</span><span class="mi">12</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">&#39;black&#39;</span><span class="p">)</span>
+
 <span class="c1"># Remove top and right spines</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">gca</span><span class="p">()</span><span class="o">.</span><span class="n">spines</span><span class="p">[</span><span class="s1">&#39;top&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">set_visible</span><span class="p">(</span><span class="kc">False</span><span class="p">)</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">gca</span><span class="p">()</span><span class="o">.</span><span class="n">spines</span><span class="p">[</span><span class="s1">&#39;right&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">set_visible</span><span class="p">(</span><span class="kc">False</span><span class="p">)</span>
@@ -563,7 +573,7 @@ document.write(`
 <span class="expanded">Hide code cell output</span>
 </summary>
 <div class="cell_output docutils container">
-<img alt="../_images/b9950b25170d4ecc98e1a4241757c81e1caf9eba5649a5db9f7c6c6f469799cc.png" src="../_images/b9950b25170d4ecc98e1a4241757c81e1caf9eba5649a5db9f7c6c6f469799cc.png" />
+<img alt="../_images/c0265f9458eb5f77bc370fdf863d0c424999cc21732d60a3d126fd5da7d63078.png" src="../_images/c0265f9458eb5f77bc370fdf863d0c424999cc21732d60a3d126fd5da7d63078.png" />
 </div>
 </details>
 </div>
@@ -754,7 +764,7 @@ document.write(`
 </details>
 </div>
 <ul class="simple">
-<li><p>Utility: modal-interchange-nondiminishing. Yes, the integral of all aspects of our person</p></li>
+<li><p><span class="math notranslate nohighlight">\(SV_t'\)</span> Utility: modal-interchange-nondiminishing. Yes, the integral of all aspects of our person</p></li>
 </ul>
 <aside class="margin sidebar">
 <p class="sidebar-title"></p>
@@ -874,7 +884,7 @@ document.write(`
 <figure class="align-default" id="id5">
 <a class="reference internal image-reference" href="../_images/activity_counts.png"><img alt="../_images/activity_counts.png" src="../_images/activity_counts.png" style="width: 100%;" /></a>
 <figcaption>
-<p><span class="caption-text"><em>Activity Counts</em>. “At the end of the drama THE TRUTH — which has been overlooked, disregarded, scorned, and denied — prevails. And that is how we know the Drama is done.” Some scientists may be <code class="docutils literal notranslate"><span class="pre">sloppy</span></code> because they are — like all humans — interested in <strong>ordering</strong> &amp; <a class="reference internal" href="../ipynb/curate.html#curated"><span class="std std-ref">Curating</span></a> the world rather than in <code class="docutils literal notranslate"><span class="pre">rigorously</span></code> demonstrating a <code class="docutils literal notranslate"><span class="pre">truth</span></code></span><a class="headerlink" href="#id5" title="Permalink to this image">#</a></p>
+<p><span class="caption-text"><em>Activity Counts</em>. While association isn’t causation, there is a strong one between hearing acuity &amp; physical activity. Investiage “arousal” across all senses external &amp; internal to see impact on <code class="docutils literal notranslate"><span class="pre">DNA-HTA-E.Box-mRNA-Wide-Associations</span></code></span><a class="headerlink" href="#id5" title="Permalink to this image">#</a></p>
 </figcaption>
 </figure>
 </section>
@@ -927,7 +937,7 @@ document.write(`
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#religion">Religion</a><ul class="nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#energy">Energy</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#mu-base-case"><span class="math notranslate nohighlight">\(\mu\)</span> Base-case</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#sigma-varcov-matrix"><span class="math notranslate nohighlight">\(\sigma\)</span> Varcov-matrix</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#precision"><span class="math notranslate nohighlight">\(\%\)</span> Precision</a></li>
