@@ -1,39 +1,8 @@
-(act3-webApp)=
-# Rankings
+# Act 1
+Absolutely, you’re pointing to a deeper connection between these two metaphors of decay. "Something is rotten in the state of Denmark" (Act 1, Scene 4) and "the impostume of much wealth that inward breaks" (Act 4, Scene 4) are tied to the central theme of hidden corruption festering within Denmark, eventually leading to its collapse. Both metaphors encapsulate the idea that while things might appear superficially intact—stable on the outside—the kingdom is rotting from within, due to moral decay, unchecked ambition, and betrayal.
 
-## Jung vs. Freud
+The "impostume" speaks of wealth and ambition as the cause of internal corruption, which aligns with the literal and figurative corruption in Denmark’s leadership. Claudius’ illegitimate rule, achieved through murder and deception, mirrors an abscess festering beneath the surface—there’s no visible "cause" for the kingdom's deterioration on the outside, but the moral decay is eating away at Denmark's core. The phrase "inward breaks" suggests that this corruption is hidden until it's too late, when it inevitably erupts and leads to destruction.
 
-                    1. Chaos
-                            \
-               2. Frenzy -> 4. Uncommunicable -> 5. Algorithms -> 6. Binary
-                            /
-                             3. Energy
+By linking these two metaphors, Shakespeare underscores a warning about the perils of internal corruption. The Danish court’s outward appearance of order, with a new king on the throne and peace seemingly restored, hides the festering moral sickness that will eventually destroy the entire royal family and leave Denmark vulnerable, as signified by Fortinbras' arrival at the end of the play.
 
-### Id 1, 2, 3
-### Ego 4
-### Superego 5, 6 
-
-Carl Jung vs. Sigmund Freud is a classic debate in psychology, often filled with passion and strong opinions. Here's my take:
-
-1. **Sigmund Freud**: Freud's contributions to psychology are monumental. He is the father of psychoanalysis, introducing concepts such as the unconscious mind, defense mechanisms, and the importance of early childhood experiences. Freud's theories on the Oedipus complex, id, ego, and superego have deeply influenced not only psychology but also culture, literature, and art. His work laid the foundation for understanding human behavior, making him indispensable in the history of psychology. However, many of his ideas are now seen as outdated and overly focused on sexuality.
-
-2. **Carl Jung**: Jung expanded on Freud's ideas but took them in a different, and arguably more holistic, direction. He introduced concepts such as the collective unconscious, archetypes, and individuation. Jung's work is profound in exploring the deeper layers of the psyche and connecting psychological experiences with spirituality and mythology. His theories on introversion and extraversion form the basis of modern personality psychology. While Jung's ideas can be seen as more esoteric, they offer a richer, more nuanced understanding of the human mind.
-
-### Ranking:
-
-1. **Freud**: For foundational influence, groundbreaking theories, and establishing psychoanalysis as a field.
-2. **Jung**: For expanding the scope of psychology, introducing enduring concepts like archetypes, and bridging psychology with broader cultural and spiritual dimensions.
-
-### Personal Preference:
-
-I find Jung's work more compelling and applicable in understanding the human psyche in a broader, more integrative way. His ideas on the collective unconscious and archetypes resonate deeply with the complexities of human experience, making him my preferred thinker in this comparison. However, Freud's pioneering work cannot be understated, and his foundational theories are essential to the study of psychology.
-
-### Linear 1, 2, 3
-### Categorical [4](https://www.youtube.com/watch?v=TYAKHLrr51w)
-### Binary 5, 6 
-
-                    1. Error
-                            \
-    2. Fit: Bias-Variance -> 4. Rankings -> 5. Top -> 6. Achievement
-                            /
-                             3. Mean
+In essence, Denmark is the "impostume" that has "inward broken," with its festering corruption invisible until the kingdom reaches a point of catastrophic collapse. Shakespeare’s brilliance here is in using these layered metaphors to reveal how power, unchecked ambition, and moral compromise eat away at the integrity of the state, just as an abscess silently festers until it bursts.
