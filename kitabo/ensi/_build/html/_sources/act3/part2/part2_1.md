@@ -1,78 +1,8 @@
-(webApp-jb)=
-# Collective Unconscious
+# Chapter 1
+In appellate courts, like circuit courts, arguments tend to focus on the application of the law to broader legal principles rather than individual case specifics. These courts aim to interpret the law and set precedents for future cases, so group membership and systemic issues often take center stage when making legal arguments. 
 
-               
-                    1. Outside World
-                                    \
-                     2. Heritage -> 4. Collective Unconscious -> 5. Teachers-High.priests-Heroes-Producers-Decoders -> Ego
-                                    /
-                                    3. Symbols & Archetypes
+In cases involving discrimination or civil rights, arguments based on group membership (e.g., gender, race, or class) can be critical because they challenge systemic patterns of inequality. The legal framework for these arguments often hinges on whether laws disproportionately affect certain groups, which can push courts to consider the broader societal impact.
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>3x3 YouTube Video Matrix</title>
-    <style>
-        .video-grid {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 10px;
-        }
-        .video-grid iframe {
-            width: 200;
-            height: 600;
-        }
-    </style>
-</head>
-<body>
-    <div class="video-grid">
-        <iframe src="https://www.youtube.com/embed/C5cuKwNJiUs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <iframe src="https://www.youtube.com/embed/qf69KlraCvU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <iframe src="https://www.youtube.com/embed/D3rQLKlUBXU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <iframe src="https://www.youtube.com/embed/V5O7dC9X5dA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <iframe src="https://www.youtube.com/embed/ViwtNLUqkMY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <iframe src="https://www.youtube.com/embed/bbqVg_23otg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <iframe src="https://www.youtube.com/embed/pnLGmjcgLQw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <iframe src="https://www.youtube.com/embed/SwwbP4kB-4Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <iframe src="https://www.youtube.com/embed/ScStmTbI94E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-</body>
-</html>
+On the other hand, the specifics of an individual case still matter because they provide the factual basis for the court's legal interpretation. The tension between addressing individual circumstances and advancing broader social justice goals is precisely what can make cases like *On the Basis of Sex* so explosive. The appellate court’s role is to blend these elements, ensuring that individual rights are protected while also addressing broader legal norms.
 
-
-Fruitful exchange with Duncan: [{term}`def<Open data>`]. Let's buildl upon it {ref}`Data Management Plans<rr-rdm-dmp>` in these pages: {ref}`Steps to Share your Data <rr-rdm-sharing-steps>` in the subchapter: {ref}`Sharing and Archiving Data<rr-rdm-sharing>`.
-
-(abc-landing)=
-### Biological 1, 2, 3
-- Voir: Aware
-- Savoir: Compute
-- Pouvoir: Bayesian
-
-(fw)=
-### Social [4](http://webspace.ship.edu/cgboer/ptinstinct.html)
-- Agency: Social
-
-(fw-aim1)=
-### Personal 5, 6
-- [Flow](https://www.youtube.com/watch?v=ScStmTbI94E), Plugin
-- Growth
-
-also... {cite}`Stuart2018sharing` conducted amongst researchers list the following reasons:
-
-
-```{figure} http://webspace.ship.edu/cgboer/layersofunconscious.gif
----
-height: 500px
-name: etc
-alt: etc
----
-_Jung was onto something_   
-
-```sh              
-1. Food-Physical
-                \
-                       2. Teeth-Natural.Language -> 4. Enzymes-Coded.Language -> 5. Absorption-Plugins -> Growth-Liberation
-                 /
-                               3. Gut-Tokens
-```
+Ruth Bader Ginsburg's strategy in many cases was to highlight both the individual's rights and the broader implications of systemic discrimination, which was essential in advancing gender equality under the law.

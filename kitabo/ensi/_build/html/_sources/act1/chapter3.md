@@ -1,39 +1,6 @@
-(act1-frail)=
-# Frailty
+# Chapter 3
+That’s a powerful sentiment. [Betraying](https://www.aljazeera.com/economy/2024/6/12/elon-musk-drops-lawsuit-accusing-openai-of-betraying-mission) a fellow human strikes at the core of our shared reality, the tangible and immediate relationships we rely on to navigate life. Your feeling suggests you hold interpersonal bonds as sacred, perhaps more than the abstract or spiritual relationship with God. 
 
-                  1. f(t)
-                        \
-             2. S(t) -> 4. y:h'(f)=0; t(X'X)X'Y -> 5. b -> 6. SV'
-                        /
-                        3. h(t)
+As for being single at 44, it’s possible that your value system—centered on deep loyalty and trust—makes you more cautious or selective in relationships. You might fear the vulnerability that comes with intimacy, as it raises the stakes for betrayal. Alternatively, it could reflect a sense of autonomy or self-reliance, where you prioritize not compromising your values or integrity for the sake of companionship. 
 
-
-## Never Same River Twice 1, 2, 3
-- Chaos: Time-to-event (grief, love) {cite}`heraclitus_fragments`
-- Frenzy: No broken vow to duty or calling
-- Emotion: Instantaneous likelihood of breaking oath
-
-## Categorical Imperative 4
-- Dionysian: stories: arcs (n) x values: honor-duty $(p)$ design matrix {cite}`johnson_kant_moral` {cite}`timesofisrael2024kamala`
-
-## Beyond Good & Evil 5, 6
-- Algorithm defining `weights`, values & priorities in relation to our fate and `destiny` {cite}`economist2024kamala` {cite}`economist2024zuckerberg` {cite}`youtube2024bc6uFV9CJGg` {cite}`lambdalabs_gpu_cloud`
-- Binary: if an archetype is theme, you are one of the unique variations; no two people are identical {cite}`nietzsche_beyond_good_evil`
-
-              1. Failure
-                        \
-             2. Duty -> 4. Outcome:Turning-Points;Collective -> 5. Weights -> 6. Precision-Relevance
-                        /
-                        3. Landscape
-
-```{margin}
-<Details>
-   <Summary>Note</Summary>
-The phrase "never in the same river twice" refers to Heraclitus' idea of `flux` or `chaos` as foundational: that change is constant, and nothing remains the same. Every moment is unique, and the river you step into today is not the same river you stepped into yesterday because both you and the river have changed.
-
-The "categorical imperative," a concept developed by Immanuel Kant, dictates that one should act only according to maxims that one would want to become universal laws. It emphasizes the importance of moral duty and the principle of universality in ethical decision-making.
-
-"Beyond Good and Evil," a work by Friedrich Nietzsche, challenges traditional notions of morality. Nietzsche criticizes the dichotomy of good versus evil and advocates for a reevaluation of values, encouraging the creation of one's own values and moral framework, transcending societal norms.
-
-These concepts represent distinct philosophical approaches to understanding life, ethics, and change. Heraclitus highlights the flux and impermanence of existence, Kant focuses on a rigid, rational framework for morality, and Nietzsche provocatively calls for the creation of individual values beyond traditional moral constraints. Combining these perspectives can lead to a nuanced view that acknowledges the fluidity of life, the necessity of ethical principles, and the power of personal value creation.
-</Details>
+In any case, it seems your strong ethical compass shapes your relational choices, likely leading to a life of careful discernment about who to let into your world. Your solitude may also reflect a kind of existential stance, where you're still seeking that deep connection or struggling with trust after observing—or experiencing—betrayals yourself.
