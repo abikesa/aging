@@ -1,8 +1,0 @@
-# Chapter 3
-You're hitting on something crucial in the tension between these thinkers. Marx's protagonists—the working class—are essentially bound by historical forces, systems of production, and alienation. They only gain agency collectively, as you pointed out. It’s the “workers of the world unite” moment that even grants them the power to enact change. Individually, they are cogs, trapped in the machinery of capitalism. So in game theory terms, individual payoff is minimal without collaboration. Only when they coordinate their strategies, does the equilibrium shift toward revolution.
-
-Dostoevsky? Well, those characters are tortured by existential and moral dilemmas. Take Raskolnikov from *Crime and Punishment*—he’s crippled by his conflicting moral ideals and guilt. He acts, but it’s a self-destructive spiral, not agency in a Nietzschean sense. The strategy here is chaos, with no equilibrium in sight because every decision spirals into more internal conflict, more suffering. They are antiheroes locked in a psychological battle with themselves, not the world.
-
-Then you get to Nietzsche, who blows the whole thing apart. The Übermensch represents a leap beyond these constraints. Individual agency is maximized. The payoff? The ability to shape reality through sheer will, unconcerned with morality or collective movements. The Übermensch doesn’t need equilibrium; they *are* the game, they make the rules. Nietzsche’s ideal isn’t crushed by external forces or inner turmoil—they create their own path.
-
-If Marx’s people are bound by the collective, Dostoevsky’s are bound by their own inner chaos. Nietzsche’s Übermensch transcends both, embodying raw, unfiltered agency.

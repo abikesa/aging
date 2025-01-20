@@ -1,8 +1,0 @@
-# Act 2
-The abscess metaphor primarily refers to Denmark in *Hamlet*. The rot, decay, and internal corruption Hamlet speaks of are most evident in the Danish court, particularly in the moral and political state of affairs following King Hamlet's death and Claudius' rise to power. The phrase "something is rotten in the state of Denmark" directly points to this sense of internal corruption festering within the kingdom.
-
-Fortinbras and Norway, on the other hand, seem to represent a contrast. While Fortinbras is ambitious and willing to go to war over a relatively worthless piece of land, his actions are external and strategic, driven by political and familial motivations. Hamlet doesn't view Norway as corrupt in the same way Denmark is. If anything, Fortinbras' determination represents action and decisiveness—qualities Hamlet himself struggles with.
-
-Denmark is the true "abscess" in the play. Claudius' regicide and deceit have infected the kingdom from the inside, creating a moral and political crisis that festers and ultimately leads to the tragic downfall of nearly every major character. While Norway may be engaged in external, arguably pointless conflict, the real rot is deep within Denmark, decaying the state from within.
-
-Hamlet's comparison of wealth to an abscess that "inward breaks" reflects his deeper recognition of the spiritual and moral corruption in his homeland, Denmark, which contrasts with Norway’s more outward displays of power and ambition.

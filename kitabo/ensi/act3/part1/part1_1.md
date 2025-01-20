@@ -1,6 +1,0 @@
-# Chapter 1
-The phrase "the impostume of much wealth" comes from *Hamlet* (Act 4, Scene 4), where Hamlet, observing Fortinbras’ military campaign over a worthless piece of land, reflects on the absurdity of ambition and human greed. An "impostume" is an old medical term for an abscess, a swollen, festering area of infection. Hamlet is comparing excessive wealth to such an abscess—something that festers, grows, and becomes diseased.
-
-In the context of *Hamlet*, the phrase speaks to the corruption and moral decay that often accompany wealth and unchecked ambition. Hamlet laments that human beings, in their pursuit of power and riches, allow wealth to become an infection that distorts judgment, leading them to pursue meaningless goals at great cost. It’s also a critique of excess—too much of anything, wealth included, leads to moral and spiritual rot.
-
-This line is an embodiment of Shakespeare's sharp criticism of human nature and the emptiness of material pursuits, something Hamlet becomes increasingly aware of as he navigates his own existential crisis. It can also resonate with broader societal observations of how wealth, when hoarded or pursued obsessively, leads to a hollow existence, much like an untreated impostume.
